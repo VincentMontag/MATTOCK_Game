@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - player
+  - deathbox
+  - goal
+  - GoldCoin
+  - SilverCoin
+  - BronzeCoin
+  - NumberOfCoins
+  - attack
+  - oldMiner
+  - PressEToBuy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: diamond
+    uniqueID: 3464526183
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 318211253
+    locked: 0
+  - name: GoldCoin
+    uniqueID: 338037457
+    locked: 0
+  - name: SilverCoin
+    uniqueID: 2579171427
+    locked: 0
+  - name: BronzeCoin
+    uniqueID: 449927081
+    locked: 0
+  - name: textbox
+    uniqueID: 1286532351
+    locked: 0
