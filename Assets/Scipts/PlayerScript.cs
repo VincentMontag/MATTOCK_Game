@@ -108,6 +108,7 @@ public class PlayerScript : MonoBehaviour
                 {
                     attackScript.hasWeapon = true;
                     coinScript.coin -= 25;
+                    coinScript.NumberOfCoins.text = coinScript.coin.ToString();
                 }
             }
 
